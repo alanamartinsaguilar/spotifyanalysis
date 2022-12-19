@@ -1,6 +1,8 @@
 # Spotify Analysis
 The goal of this code is to show how you can keep tracking of how the music you listen every day evolves and create playlists based in certain parameters personalized by you. The possibilities are almost infinite and this notebook are just an example how analyze data provided by Spotify and some interesting features. 
 
+The libraries used for this project (including data wrangling and visualization libraries) are available at requirements.
+
 ## Useful links 
 The libraries used for this project are:
   - The official endpoints documentation provided by Spotify: https://developer.spotify.com/documentation/web-api/
