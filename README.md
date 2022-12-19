@@ -4,7 +4,7 @@ The goal of this code is to show how you can keep tracking of how the music you 
 The libraries used for this project (including data wrangling and visualization libraries) are available at requirements.
 
 ## Useful links 
-The libraries used for this project are:
+I highly recommend you to check:
   - The official endpoints documentation provided by Spotify: https://developer.spotify.com/documentation/web-api/
   - Python library Spotipy for acess all the endpoints: https://spotipy.readthedocs.io/en/2.22.0/?highlight=playlist#
   - How the Spotify recsys works: https://www.music-tomorrow.com/blog/how-spotify-recommendation-system-works-a-complete-guide-2022
